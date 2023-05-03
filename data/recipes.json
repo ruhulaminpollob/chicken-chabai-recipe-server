@@ -1,0 +1,616 @@
+[
+    {
+        "_id": 1,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian-seasoned breadcrumbs",
+                    "1 cup grated Parmesan cheese",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese"
+                ],
+                "description": "This classic Italian dish features crispy breaded chicken topped with tomato sauce and melted mozzarella cheese. Serve with a side of spaghetti for a comforting and satisfying meal."
+            },
+            {
+                "id": 2,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "1 pound beef sirloin, sliced into thin strips",
+                    "1 onion, chopped",
+                    "1 tablespoon butter",
+                    "1 tablespoon flour",
+                    "1 cup beef broth",
+                    "1/2 cup sour cream",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This hearty and flavorful dish features tender beef strips in a creamy mushroom sauce. Serve over a bed of egg noodles for a comforting and filling meal."
+            },
+            {
+                "id": 3,
+                "name": "Roasted Vegetable Lasagna",
+                "ingredients": [
+                    "9 lasagna noodles",
+                    "2 cups marinara sauce",
+                    "2 cups chopped mixed vegetables (such as zucchini, eggplant, and bell peppers)",
+                    "1 cup ricotta cheese",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "description": "This vegetarian lasagna is packed with roasted vegetables and layers of cheesy goodness. Serve with a side salad for a complete and satisfying meal."
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Teriyaki Salmon",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/2 cup soy sauce",
+                    "1/4 cup honey",
+                    "1 tablespoon rice vinegar",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon grated ginger",
+                    "1 clove garlic, minced",
+                    "2 green onions, chopped",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This flavorful dish features succulent salmon fillets coated in a sweet and savory teriyaki sauce. Serve with steamed rice and a side of stir-fried vegetables for a healthy and delicious meal."
+            },
+            {
+                "id": 2,
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts, toasted",
+                    "2 tablespoons olive oil",
+                    "2 cloves garlic, minced",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This simple yet satisfying pasta dish features al dente spaghetti coated in a rich and flavorful basil pesto sauce. Top with toasted pine nuts and grated Parmesan cheese for a delicious and easy meal."
+            },
+            {
+                "id": 3,
+                "name": "Chicken Fajitas",
+                "ingredients": [
+                    "1 pound chicken breast, sliced into thin strips",
+                    "2 bell peppers, sliced",
+                    "1 onion, sliced",
+                    "2 tablespoons olive oil",
+                    "1 tablespoon chili powder",
+                    "1 teaspoon cumin",
+                    "1/2 teaspoon garlic powder",
+                    "1/2 teaspoon paprika",
+                    "Salt and pepper, to taste",
+                    "Flour tortillas, for serving"
+                ],
+                "description": "These sizzling chicken fajitas are a crowd-pleaser! Seasoned with chili powder, cumin, garlic powder, and paprika, the chicken is cooked alongside bell peppers and onions for a colorful and delicious meal. Serve with warm flour tortillas and your favorite toppings."
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Garlic Shrimp Scampi",
+                "ingredients": [
+                    "1 pound shrimp, peeled and deveined",
+                    "8 oz. linguine pasta",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "1/4 cup white wine",
+                    "1/4 cup freshly squeezed lemon juice",
+                    "1/4 cup chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This delicious shrimp scampi is loaded with garlicky, lemony flavors and perfect for a quick weeknight dinner. The shrimp is cooked in a white wine and lemon sauce and served over a bed of linguine pasta."
+            },
+            {
+                "id": 2,
+                "name": "Creamy Mushroom Soup",
+                "ingredients": [
+                    "1 pound mushrooms, sliced",
+                    "1 onion, chopped",
+                    "4 cups chicken broth",
+                    "1/2 cup heavy cream",
+                    "2 tablespoons butter",
+                    "2 tablespoons flour",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This creamy mushroom soup is a comforting and flavorful dish perfect for chilly nights. The soup is loaded with sliced mushrooms and seasoned with thyme, garlic, salt and pepper, and finished with a splash of heavy cream for a luscious texture."
+            },
+            {
+                "id": 3,
+                "name": "Slow Cooker Beef Stew",
+                "ingredients": [
+                    "2 pounds beef stew meat, cubed",
+                    "4 carrots, peeled and chopped",
+                    "2 potatoes, peeled and chopped",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "4 cups beef broth",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 bay leaf",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This hearty beef stew is perfect for a cozy winter meal. The beef is slow cooked in a flavorful broth with carrots, potatoes, onion, garlic, tomato paste, thyme, and bay leaf until tender and delicious."
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "BBQ Pulled Pork Sandwiches",
+                "ingredients": [
+                    "1 lb pork shoulder",
+                    "1 cup BBQ sauce",
+                    "1/2 cup apple cider vinegar",
+                    "1/2 cup brown sugar",
+                    "1 tablespoon smoked paprika",
+                    "1 tablespoon garlic powder",
+                    "1 tablespoon onion powder",
+                    "1/2 teaspoon salt",
+                    "8 brioche buns",
+                    "Sliced red onion and pickles, for serving"
+                ],
+                "description": "This delicious pulled pork sandwich recipe is perfect for a summer BBQ or game day party. The pork shoulder is slow cooked in a tangy, smoky BBQ sauce until it's tender and falling apart, then served on a soft brioche bun with sliced red onion and pickles."
+            },
+            {
+                "id": 2,
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "4 ripe tomatoes, sliced",
+                    "8 oz fresh mozzarella cheese, sliced",
+                    "1/4 cup fresh basil leaves, torn",
+                    "1/4 cup olive oil",
+                    "2 tablespoons balsamic vinegar",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic Caprese salad is a simple and delicious way to enjoy fresh summer tomatoes. Layers of ripe tomato and creamy mozzarella cheese are drizzled with olive oil and balsamic vinegar, then topped with torn basil leaves, salt, and pepper."
+            },
+            {
+                "id": 3,
+                "name": "Chicken and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breast, sliced",
+                    "2 cups broccoli florets",
+                    "1 red bell pepper, sliced",
+                    "1 yellow onion, sliced",
+                    "2 cloves garlic, minced",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons honey",
+                    "1 tablespoon cornstarch",
+                    "1 teaspoon grated ginger",
+                    "1/4 teaspoon red pepper flakes",
+                    "2 tablespoons vegetable oil"
+                ],
+                "description": "This quick and easy chicken and broccoli stir fry is a healthy and flavorful weeknight dinner option. Sliced chicken breast is stir fried with broccoli florets, red bell pepper, and onion in a sweet and savory sauce made with soy sauce, honey, ginger, and garlic."
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Pesto Pasta with Roasted Tomatoes",
+                "ingredients": [
+                    "8 oz. spaghetti pasta",
+                    "1 cup fresh basil leaves, packed",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/3 cup pine nuts",
+                    "3 cloves garlic, minced",
+                    "1/2 cup olive oil",
+                    "2 cups cherry tomatoes, halved",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This flavorful pesto pasta is loaded with fresh basil and topped with roasted cherry tomatoes. The pesto is made with pine nuts, garlic, Parmesan cheese, and olive oil and is tossed with spaghetti pasta until perfectly coated."
+            },
+            {
+                "id": 2,
+                "name": "Baked Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1 egg",
+                    "1/4 cup milk",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic baked chicken Parmesan recipe is a crowd-pleasing dinner option that is easy to make. Chicken breasts are coated in a mixture of breadcrumbs and Parmesan cheese, then baked in the oven with marinara sauce and mozzarella cheese until golden and bubbly."
+            },
+            {
+                "id": 3,
+                "name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 lb flank steak, thinly sliced",
+                    "4 cups broccoli florets",
+                    "1 red bell pepper, sliced",
+                    "1/2 cup soy sauce",
+                    "1/4 cup brown sugar",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon minced ginger",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon sesame oil",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This beef and broccoli stir fry is a quick and easy dinner option that is perfect for busy weeknights. Thinly sliced flank steak is stir fried with broccoli, red bell pepper, ginger, and garlic, and coated in a sweet and savory sauce made with soy sauce, brown sugar, and cornstarch."
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian-seasoned breadcrumbs",
+                    "1 cup grated Parmesan cheese",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese"
+                ],
+                "description": "This classic Italian dish features crispy breaded chicken topped with tomato sauce and melted mozzarella cheese. Serve with a side of spaghetti for a comforting and satisfying meal."
+            },
+            {
+                "id": 2,
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts, toasted",
+                    "2 tablespoons olive oil",
+                    "2 cloves garlic, minced",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This simple yet satisfying pasta dish features al dente spaghetti coated in a rich and flavorful basil pesto sauce. Top with toasted pine nuts and grated Parmesan cheese for a delicious and easy meal."
+            },
+            {
+                "id": 3,
+                "name": "Slow Cooker Beef Stew",
+                "ingredients": [
+                    "2 pounds beef stew meat, cubed",
+                    "4 carrots, peeled and chopped",
+                    "2 potatoes, peeled and chopped",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "4 cups beef broth",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 bay leaf",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This hearty beef stew is perfect for a cozy winter meal. The beef is slow cooked in a flavorful broth with carrots, potatoes, onion, garlic, tomato paste, thyme, and bay leaf until tender and delicious."
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "BBQ Pulled Pork Sandwiches",
+                "ingredients": [
+                    "1 lb pork shoulder",
+                    "1 cup BBQ sauce",
+                    "1/2 cup apple cider vinegar",
+                    "1/2 cup brown sugar",
+                    "1 tablespoon smoked paprika",
+                    "1 tablespoon garlic powder",
+                    "1 tablespoon onion powder",
+                    "1/2 teaspoon salt",
+                    "8 brioche buns",
+                    "Sliced red onion and pickles, for serving"
+                ],
+                "description": "This delicious pulled pork sandwich recipe is perfect for a summer BBQ or game day party. The pork shoulder is slow cooked in a tangy, smoky BBQ sauce until it's tender and falling apart, then served on a soft brioche bun with sliced red onion and pickles."
+            },
+            {
+                "id": 2,
+                "name": "Baked Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1 egg",
+                    "1/4 cup milk",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic baked chicken Parmesan recipe is a crowd-pleasing dinner option that is easy to make. Chicken breasts are coated in a mixture of breadcrumbs and Parmesan cheese, then baked in the oven with marinara sauce and mozzarella cheese until golden and bubbly."
+            },
+            {
+                "id": 3,
+                "name": "Slow Cooker Beef Stew",
+                "ingredients": [
+                    "2 pounds beef stew meat, cubed",
+                    "4 carrots, peeled and chopped",
+                    "2 potatoes, peeled and chopped",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "4 cups beef broth",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried thyme",
+                    "1 bay leaf",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This hearty beef stew is perfect for a cozy winter meal. The beef is slow cooked in a flavorful broth with carrots, potatoes, onion, garlic, tomato paste, thyme, and bay leaf until tender and delicious."
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "BBQ Pulled Pork Sandwiches",
+                "ingredients": [
+                    "1 lb pork shoulder",
+                    "1 cup BBQ sauce",
+                    "1/2 cup apple cider vinegar",
+                    "1/2 cup brown sugar",
+                    "1 tablespoon smoked paprika",
+                    "1 tablespoon garlic powder",
+                    "1 tablespoon onion powder",
+                    "1/2 teaspoon salt",
+                    "8 brioche buns",
+                    "Sliced red onion and pickles, for serving"
+                ],
+                "description": "This delicious pulled pork sandwich recipe is perfect for a summer BBQ or game day party. The pork shoulder is slow cooked in a tangy, smoky BBQ sauce until it's tender and falling apart, then served on a soft brioche bun with sliced red onion and pickles."
+            },
+            {
+                "id": 2,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "1 pound beef sirloin, sliced into thin strips",
+                    "1 onion, chopped",
+                    "1 tablespoon butter",
+                    "1 tablespoon flour",
+                    "1 cup beef broth",
+                    "1/2 cup sour cream",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This hearty and flavorful dish features tender beef strips in a creamy mushroom sauce. Serve over a bed of egg noodles for a comforting and filling meal."
+            },
+            {
+                "id": 2,
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts, toasted",
+                    "2 tablespoons olive oil",
+                    "2 cloves garlic, minced",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This simple yet satisfying pasta dish features al dente spaghetti coated in a rich and flavorful basil pesto sauce. Top with toasted pine nuts and grated Parmesan cheese for a delicious and easy meal."
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Garlic Shrimp Scampi",
+                "ingredients": [
+                    "1 pound shrimp, peeled and deveined",
+                    "8 oz. linguine pasta",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "1/4 cup white wine",
+                    "1/4 cup freshly squeezed lemon juice",
+                    "1/4 cup chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This delicious shrimp scampi is loaded with garlicky, lemony flavors and perfect for a quick weeknight dinner. The shrimp is cooked in a white wine and lemon sauce and served over a bed of linguine pasta."
+            },
+            {
+                "id": 2,
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "4 ripe tomatoes, sliced",
+                    "8 oz fresh mozzarella cheese, sliced",
+                    "1/4 cup fresh basil leaves, torn",
+                    "1/4 cup olive oil",
+                    "2 tablespoons balsamic vinegar",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic Caprese salad is a simple and delicious way to enjoy fresh summer tomatoes. Layers of ripe tomato and creamy mozzarella cheese are drizzled with olive oil and balsamic vinegar, then topped with torn basil leaves, salt, and pepper."
+            },
+            {
+                "id": 3,
+                "name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 lb flank steak, thinly sliced",
+                    "4 cups broccoli florets",
+                    "1 red bell pepper, sliced",
+                    "1/2 cup soy sauce",
+                    "1/4 cup brown sugar",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon minced ginger",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon sesame oil",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This beef and broccoli stir fry is a quick and easy dinner option that is perfect for busy weeknights. Thinly sliced flank steak is stir fried with broccoli, red bell pepper, ginger, and garlic, and coated in a sweet and savory sauce made with soy sauce, brown sugar, and cornstarch."
+            }
+        ]
+    },
+    {
+        "_id": 10,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian-seasoned breadcrumbs",
+                    "1 cup grated Parmesan cheese",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese"
+                ],
+                "description": "This classic Italian dish features crispy breaded chicken topped with tomato sauce and melted mozzarella cheese. Serve with a side of spaghetti for a comforting and satisfying meal."
+            },
+            {
+                "id": 2,
+                "name": "Baked Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1 egg",
+                    "1/4 cup milk",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic baked chicken Parmesan recipe is a crowd-pleasing dinner option that is easy to make. Chicken breasts are coated in a mixture of breadcrumbs and Parmesan cheese, then baked in the oven with marinara sauce and mozzarella cheese until golden and bubbly."
+            },
+            {
+                "id": 2,
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts, toasted",
+                    "2 tablespoons olive oil",
+                    "2 cloves garlic, minced",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This simple yet satisfying pasta dish features al dente spaghetti coated in a rich and flavorful basil pesto sauce. Top with toasted pine nuts and grated Parmesan cheese for a delicious and easy meal."
+            }
+        ]
+    },
+    {
+        "_id": 11,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Garlic Shrimp Scampi",
+                "ingredients": [
+                    "1 pound shrimp, peeled and deveined",
+                    "8 oz. linguine pasta",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "1/4 cup white wine",
+                    "1/4 cup freshly squeezed lemon juice",
+                    "1/4 cup chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This delicious shrimp scampi is loaded with garlicky, lemony flavors and perfect for a quick weeknight dinner. The shrimp is cooked in a white wine and lemon sauce and served over a bed of linguine pasta."
+            },
+            {
+                "id": 2,
+                "name": "Baked Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1 egg",
+                    "1/4 cup milk",
+                    "2 cups marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "2 tablespoons chopped fresh parsley",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This classic baked chicken Parmesan recipe is a crowd-pleasing dinner option that is easy to make. Chicken breasts are coated in a mixture of breadcrumbs and Parmesan cheese, then baked in the oven with marinara sauce and mozzarella cheese until golden and bubbly."
+            },
+            {
+                "id": 3,
+                "name": "Roasted Vegetable Lasagna",
+                "ingredients": [
+                    "9 lasagna noodles",
+                    "2 cups marinara sauce",
+                    "2 cups chopped mixed vegetables (such as zucchini, eggplant, and bell peppers)",
+                    "1 cup ricotta cheese",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated Parmesan cheese"
+                ],
+                "description": "This vegetarian lasagna is packed with roasted vegetables and layers of cheesy goodness. Serve with a side salad for a complete and satisfying meal."
+            }
+        ]
+    },
+    {
+        "_id": 12,
+        "myRecipes": [
+            {
+                "id": 1,
+                "name": "Teriyaki Salmon",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/2 cup soy sauce",
+                    "1/4 cup honey",
+                    "1 tablespoon rice vinegar",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon grated ginger",
+                    "1 clove garlic, minced",
+                    "2 green onions, chopped",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This flavorful dish features succulent salmon fillets coated in a sweet and savory teriyaki sauce. Serve with steamed rice and a side of stir-fried vegetables for a healthy and delicious meal."
+            },
+            {
+                "id": 2,
+                "name": "Creamy Mushroom Soup",
+                "ingredients": [
+                    "1 pound mushrooms, sliced",
+                    "1 onion, chopped",
+                    "4 cups chicken broth",
+                    "1/2 cup heavy cream",
+                    "2 tablespoons butter",
+                    "2 tablespoons flour",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "description": "This creamy mushroom soup is a comforting and flavorful dish perfect for chilly nights. The soup is loaded with sliced mushrooms and seasoned with thyme, garlic, salt and pepper, and finished with a splash of heavy cream for a luscious texture."
+            },
+            {
+                "id": 3,
+                "name": "Chicken and Broccoli Stir Fry",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breast, sliced",
+                    "2 cups broccoli florets",
+                    "1 red bell pepper, sliced",
+                    "1 yellow onion, sliced",
+                    "2 cloves garlic, minced",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons honey",
+                    "1 tablespoon cornstarch",
+                    "1 teaspoon grated ginger",
+                    "1/4 teaspoon red pepper flakes",
+                    "2 tablespoons vegetable oil"
+                ],
+                "description": "This quick and easy chicken and broccoli stir fry is a healthy and flavorful weeknight dinner option. Sliced chicken breast is stir fried with broccoli florets, red bell pepper, and onion in a sweet and savory sauce made with soy sauce, honey, ginger, and garlic."
+            }
+        ]
+    }
+]
