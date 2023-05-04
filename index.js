@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const chef = require("./data/chef.json")
 const recipes=require("./data/recipes.json")
+const clients=require("./data/clients.json")
 
 app.use(cors())
 
@@ -26,6 +27,9 @@ app.get('/recipes/:recipesId', (req, res) => {
     const recipesId=req.params.recipesId;
     const recipesData=recipes.find(n => n._id == recipesId)
     res.send(recipesData)
+})
+app.get('/clients',(req, res)=>{
+    res.send(clients)
 })
 
 app.listen(port, () => {
